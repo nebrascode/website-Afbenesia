@@ -498,11 +498,6 @@
     background: var(--primary);
 }
 
-.owl-item.center .testimonial-item *,
-.testimonial-item:hover * {
-    color: #FFFFFF !important;
-}
-
 .testimonial-item img {
     width: 100px !important;
     height: 100px !important;
